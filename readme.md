@@ -24,8 +24,8 @@ Asegúrate de tener instalados los siguientes programas:
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/usuario/mi-ecommerce.git
-    cd mi-ecommerce
+    git clone https://github.com/PaulinaBach/entrega8backend.git
+    cd entrega8backend
     ```
 
 2. Instala las dependencias:
